@@ -1,0 +1,15 @@
+[proto]
+goolstm_lay=str_list
+goolstm_project=str_list
+goolstm_drop=str_list
+goolstm_use_laynorm_inp=bool
+goolstm_use_batchnorm_inp=bool
+goolstm_use_laynorm=bool_list
+goolstm_use_batchnorm=bool_list
+goolstm_bidir=bool
+goolstm_act=str_list
+goolstm_orthinit=bool
+block_size=str_list
+
+
+
